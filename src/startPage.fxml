@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="startPagePane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="1100.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="selectionGUI.StartPageController">
+   <children>
+      <ImageView fx:id="startImage" fitHeight="650.0" fitWidth="1100.0" pickOnBounds="true" preserveRatio="true" />
+      <Button fx:id="startGameButton" blendMode="HARD_LIGHT" layoutX="848.0" layoutY="572.0" mnemonicParsing="false" onAction="#startGameButtonAction" prefHeight="51.0" prefWidth="102.0" text="START GAME" textAlignment="CENTER">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+         <effect>
+            <DropShadow color="#c7d31c">
+               <input>
+                  <ColorAdjust />
+               </input>
+            </DropShadow>
+         </effect>
+      </Button>
+   </children>
+</Pane>
