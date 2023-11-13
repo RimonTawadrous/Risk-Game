@@ -53,6 +53,12 @@ Here are a few tips for defeating the AI opponent:
 
 ### Screenshots
 
-[Screenshot of the Risk game](https://github.com/bard/risk-game/blob/main/screenshots/risk-game.png)
+[Screenshot of the Risk game]([https://github.com/bard/risk-game/blob/main/screenshots/risk-game.png](https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/laning.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/choosing%20opponent.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/play-1.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/play-2.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/play-3.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/play-4.png))
+[Screenshot of the Risk game]([https://github.com/RimonTawadrous/Risk-Game/blob/master/screenshots/play-5.png))
 
 I hope these tips help you to defeat the AI opponent and become a Risk champion!
